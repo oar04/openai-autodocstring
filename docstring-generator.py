@@ -1,6 +1,6 @@
 import ast
 import openai
-openai.api_key = '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'
+openai.api_key = 'ENTER_API_KEY'
 
 def generate_docstring(func_def):
     '''"""
