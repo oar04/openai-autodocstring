@@ -1,4 +1,4 @@
-# AutoDocstring
+# Docstring Generator
 
 AutoDocstring is a Python script that generates docstrings for Python functions. At its current state, the script generates a brief sentence that describes the function. However, it will eventually be updated to use the numpydoc format, which is a standard convention for documenting Python code.
 
